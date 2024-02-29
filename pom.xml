@@ -6,7 +6,11 @@
 
     <groupId>cn.ywt</groupId>
     <artifactId>im-qq</artifactId>
+    <packaging>pom</packaging>
     <version>1.0.0</version>
+    <modules>
+        <module>im-server</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
