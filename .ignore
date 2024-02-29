@@ -1,0 +1,20 @@
+# 忽略编译生成的文件
+/target/
+
+# 忽略 IDE 自动生成的文件和目录
+/.idea/
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# 忽略日志文件
+*.log
+
+# 忽略编译产生的 class 文件
+*.class
+
+# 忽略 Maven 产生的文件
+mvnw
+mvnw.cmd
+.mvn/
