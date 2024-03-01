@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/im-server/connector/connector.iml" filepath="$PROJECT_DIR$/im-server/connector/connector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/im-server/im-chat/im-chat.iml" filepath="$PROJECT_DIR$/im-server/im-chat/im-chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/im-server/im-common/im-common.iml" filepath="$PROJECT_DIR$/im-server/im-common/im-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/im-server/im-gateway/im-gateway.iml" filepath="$PROJECT_DIR$/im-server/im-gateway/im-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/im-server/im-protobuf/im-protobuf.iml" filepath="$PROJECT_DIR$/im-server/im-protobuf/im-protobuf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/im-qq.iml" filepath="$PROJECT_DIR$/im-qq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/im-server/im-server.iml" filepath="$PROJECT_DIR$/im-server/im-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/im-server/im-user-manage/im-user-manage.iml" filepath="$PROJECT_DIR$/im-server/im-user-manage/im-user-manage.iml" />
+    </modules>
+  </component>
+</project>
